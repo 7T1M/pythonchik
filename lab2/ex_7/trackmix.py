@@ -54,7 +54,6 @@ def main():
         os.remove(path)
 
     os.remove('./list.txt')
-    print(destination)
 
 
 if __name__ == '__main__':
